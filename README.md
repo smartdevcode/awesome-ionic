@@ -43,6 +43,7 @@ An "awesome" list of the Ionic 2 resources
 * [Using An Oauth 2.0 Service Within An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)
 * [Ionic 2 and Auth0](http://blog.ionic.io/ionic-2-and-auth0/)
 * [Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/)
+* [Authenticate Ionic 2 with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
 
 #### Unit Testing
 * [Ionic 2 Unit Testing](http://lathonez.github.io/2016/ionic-2-unit-testing/)
