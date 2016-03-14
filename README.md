@@ -67,7 +67,7 @@ An "awesome" list of the Ionic 2 resources
 * [Posting data from Ionic 2 app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)
 * [Make HTTP Requests In An Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)
 
-#### Internalization
+#### i18n & l10n
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
 
 #### Video Tutorials
