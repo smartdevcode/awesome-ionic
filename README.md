@@ -11,8 +11,8 @@ An "awesome" list of the Ionic 2 resources
 
 #### Official Resources
 * [Site](http://ionicframework.com/)
-* [Blog](blog.ionic.io/)
-* [Documentation](ionicframework.com/docs/v2/)
+* [Blog](http://blog.ionic.io/)
+* [Documentation](http://ionicframework.com/docs/v2/)
 * [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
 * [Ionic Native](https://github.com/driftyco/ionic-native/)
 * [Community Forum](http://forum.ionicframework.com/)
