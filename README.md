@@ -36,6 +36,7 @@ An "awesome" list of the Ionic 2 resources
 #### Components
 * [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/)
 * [Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)
+* [How to Create a Custom Loading Component in Ionic 2](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)
 
 #### Authentication
 * [Add Touch ID Authentication To An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/)
