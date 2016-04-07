@@ -79,7 +79,7 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic 2: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
 
 #### Books
-* (Not released yet)[Building Mobile Apps with Ionic 2](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
+* [Building Mobile Apps with Ionic 2](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
