@@ -66,6 +66,7 @@ An "awesome" list of the Ionic 2 resources
 * [Share Things On Social Media Via An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/02/share-things-on-social-media-via-an-ionic-2-mobile-app/)
 
 #### Backend as a Service
+* [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
 * [Using Http to Fetch Remote Data from a Server in Ionic 2](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)
 * [Making REST HTTP Requests Like a Pro](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/)
 * [Posting data from Ionic 2 app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)
