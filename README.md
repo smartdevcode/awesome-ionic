@@ -30,6 +30,7 @@ An "awesome" list of the Ionic 2 resources
 * [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
 * [How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
 * [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
+* [Understanding Zones and Change Detection in Ionic 2 & Angular 2] (http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
 
 #### Theming
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
