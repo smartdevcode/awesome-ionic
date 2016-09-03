@@ -89,10 +89,18 @@ An "awesome" list of the Ionic 2 resources
 
 #### Books
 * [Building Mobile Apps with Ionic 2](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
+* [Ionic 2 Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints)
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
+* [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
+* [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud)
+* [Ionic Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app)
+* [Ionic Stock Tracking App](https://github.com/ionic2blueprints/ionic2-stockmarket)
+* [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client)
+* [Ionic Media Player](https://github.com/ionic2blueprints/media-player)
+* [Ionic Social App](https://github.com/ionic2blueprints/social-app)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
