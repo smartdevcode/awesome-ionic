@@ -27,6 +27,7 @@ An "awesome" list of the Ionic 2 resources
 * [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)
 * [A Simple Guide to Navigation in Ionic 2](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/)
 * [10 Minutes with Ionic 2: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/)
+* [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
 * [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
 * [How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
 * [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
