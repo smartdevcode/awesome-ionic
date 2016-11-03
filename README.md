@@ -83,6 +83,9 @@ An "awesome" list of the Ionic 2 resources
 #### i18n & l10n
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
 
+#### Tools
+* [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
+
 #### Video Tutorials
 * [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/)
 * [Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
