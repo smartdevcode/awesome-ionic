@@ -85,6 +85,7 @@ An "awesome" list of the Ionic 2 resources
 
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
+* [Vim-ionic2](https://github.com/akz92/vim-ionic2)
 
 #### Video Tutorials
 * [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/)
