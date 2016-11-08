@@ -33,6 +33,8 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
 * [Understanding Zones and Change Detection in Ionic 2 & Angular 2] (http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
 * [Understanding Ionic 2: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/)
+* [How to Manipulate Data in Ionic 2: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
+* [How to Manipulate Data in Ionic 2: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/)
 
 #### Theming
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
