@@ -95,6 +95,7 @@ An "awesome" list of the Ionic 2 resources
 * [Build a Todo App from Scratch with Ionic 2](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
 * [Ionic 2: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
 * [Ionic 2 in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)
+* [Build a Custom Flash Card Component in Ionic 2](https://www.youtube.com/watch?v=BKFQKywl_GM)
 
 #### Books
 * [Building Mobile Apps with Ionic 2](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
