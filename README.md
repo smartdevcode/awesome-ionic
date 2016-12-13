@@ -111,6 +111,8 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client)
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player)
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app)
+* [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
+* [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
