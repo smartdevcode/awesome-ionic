@@ -60,7 +60,7 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic 2 Unit Testing](http://lathonez.github.io/2016/ionic-2-unit-testing/)
 * [How to Unit Test an Ionic 2 Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 
-#### Cordova Plugins
+#### Ionic Native / Cordova Plugins
 * [Using Cordova Plugins in Ionic 2 with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/)
 * [How to Work With Cordova Plugins](http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/)
 * [10 Minutes with Ionic 2: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/)
@@ -77,6 +77,8 @@ An "awesome" list of the Ionic 2 resources
 * [How To Use PouchDB + SQLite For Local Storage In Ionic 2](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
 * [Adding Background Geolocation to an Ionic 2 Application](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/)
 * [Getting Familiar with Local Notifications in Ionic 2](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/)
+* [http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/](Create a Nearby Places List with Google Maps in Ionic 2 – Part 1)
+* [http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/](Create a Nearby Places List with Google Maps in Ionic 2 – Part 2)
 
 #### Backend as a Service
 * [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
