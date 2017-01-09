@@ -47,6 +47,7 @@ An "awesome" list of the Ionic 2 resources
 * [Creating a Sliding Introduction Component in Ionic 2](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)
 * [How to Create a Custom Loading Component in Ionic 2](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)
 * [Build a Simple Progress Bar Component in Ionic 2](http://www.joshmorony.com/build-a-simple-progress-bar-component-in-ionic-2/)
+* [Create a News Feed with 360-Degree Photo Viewing in Ionic 2](http://www.joshmorony.com/create-a-news-feed-with-360-degree-photo-viewing-in-ionic-2/)
 
 #### Authentication
 * [Add Touch ID Authentication To An Ionic 2 Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/)
