@@ -39,7 +39,7 @@ An "awesome" list of the Ionic 2 resources
 
 #### Theming
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
-* [Use Font Awesome Icons In Your Ionic 2 Android And iOS App](https://www.thepolyglotdeveloper.com/2016/03/use-font-awesome-icons-in-your-ionic-2-android-and-ios-app/)
+* [Best practice when adding FontAwesome to an ionic2 app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html)
 * [A List of Common CSS Utility Attributes in Ionic 2](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/)
 
 #### Components
