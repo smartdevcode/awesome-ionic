@@ -60,6 +60,7 @@ An "awesome" list of the Ionic 2 resources
 #### Unit Testing
 * [Ionic 2 Unit Testing](http://lathonez.github.io/2016/ionic-2-unit-testing/)
 * [How to Unit Test an Ionic 2 Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
+* [Test Driven Development in Ionic 2: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
 
 #### Ionic Native / Cordova Plugins
 * [Using Cordova Plugins in Ionic 2 with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/)
