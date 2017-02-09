@@ -19,7 +19,7 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo](https://github.com/driftyco/ionic/tree/2.0)
+* [GitHub Repo](https://github.com/driftyco/ionic/)
 
 #### Ionic 2 Fundamentals
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
