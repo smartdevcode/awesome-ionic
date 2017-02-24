@@ -123,6 +123,7 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 * [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
+* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
