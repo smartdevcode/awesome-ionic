@@ -109,6 +109,7 @@ An "awesome" list of the Ionic 2 resources
 #### Books
 * [Building Mobile Apps with Ionic 2](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
 * [Ionic 2 Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints)
+* [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
