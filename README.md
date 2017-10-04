@@ -125,6 +125,7 @@ An "awesome" list of the Ionic resources
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 * [Ionic Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic Advanced Components](https://github.com/yannbf/ionic2-components)
+* [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
